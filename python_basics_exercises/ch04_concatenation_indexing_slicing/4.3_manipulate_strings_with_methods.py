@@ -42,7 +42,7 @@ print(string2_1.startswith("be"))
 print(string3_1.startswith("be"))
 print(string4_1.startswith("be"))
 
-#Exercise 5 - Using the same four strings in exercise 4, write a program that uses string metods to alter each string so that .startswith("be")
+#Exercise 5 - Using the same four strings in exercise 4, write a program that uses string methods to alter each string so that .startswith("be")
 #returns True for all of them. 
 
 print(string1_1.lower().startswith("be"))
