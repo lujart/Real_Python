@@ -8,7 +8,7 @@
 my_string_1 = "5"
 my_integer = int(my_string_1)
 product_1 = my_integer * 5
-print(product)
+print(product_1)
 
 #The result should be the number 25.
 
@@ -36,4 +36,4 @@ second_number = input("Please input the second number: ")
 
 result = int(first_number) * int(second_number)
 
-print("The product of " + str(first_number) + " and " str(second_number) + " is " + float(result) + ".") 
+print("The product of " + str(first_number) + " and " + str(second_number) + " is " + str(float(result)) + ".")
