@@ -8,7 +8,7 @@
 
 # The letter a becomes 4.
 # The letter b becomes 8.
-# The leeter e becomes 3. 
+# The letter e becomes 3.
 # The letter l becomes 1. 
 # The letter o becomes 0.
 # The letter s becomes 5.
