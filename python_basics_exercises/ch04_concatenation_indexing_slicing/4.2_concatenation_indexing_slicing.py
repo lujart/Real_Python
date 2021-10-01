@@ -1,4 +1,4 @@
-#4.2 - Concatenation, Indexing, and Slicing.
+#4.02 - Concatenation, Indexing, and Slicing.
 #Review Exercises
 
 #Exercises 1 - Create a string and print its length using len()
