@@ -40,8 +40,8 @@ favourite_colour = input("What is you favourite colour?: ")
 letter_g = favourite_colour.find("g")
 if letter_g < 0:
   print("The letter 'g' is not present in that word.")
-  else:
-    print(f"In that word, the first letter 'g' found corresponds to index {letter_g}.")
+else:
+  print(f"In that word, the first letter 'g' found corresponds to index {letter_g}.")
     
 # By the time I created this repository I already new how to work with if/else statements, so I couln't resist
 # making this program a bit more interesting. 
