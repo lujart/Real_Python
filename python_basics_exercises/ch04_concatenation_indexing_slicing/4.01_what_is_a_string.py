@@ -37,12 +37,15 @@ City, located in the gas-giant planet called Bespin.
                           This appears in my favourite Star
            Wars film "Episode V - The Empire Strikes       Back".'''
 
+print(string_3)
+
 # Exercise 4 - Print a string that is coded on multiple lines but gets printed on
 # a single line.
 
 string_4 = "Hi,\
-how\
-are\
+how \
+are \
 you?"
 
+print(string_4)
 
