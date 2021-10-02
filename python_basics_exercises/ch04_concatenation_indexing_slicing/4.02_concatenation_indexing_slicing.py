@@ -24,4 +24,4 @@ print(phrase_2)
 #in the string "bazinga".
 
 string_5 = "bazinga"
-print("s" + string_5[3:])
+print("s" + string_5[3:6])
