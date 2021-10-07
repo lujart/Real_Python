@@ -5,7 +5,7 @@
 
 # 1. round(), for rounding numbers to some number of decimal places.
 # 2. abs(), for getting the absolute value of a number.
-# 3. pow(), for raising a number to somo power. 
+# 3. pow(), for raising a number to some power.
 
 # There is also a method that can be used with floating-point numbers to check whether
 # they have an integer value.
@@ -33,7 +33,7 @@ another_number = input("Enter another number: ")
 
 difference = float(user_input3) - float(another_number)
 
-print(f"The difference between {user_input3} and {another_number} is an integer? " + difference.is_integer() + "!")
+print(f"The difference between {user_input3} and {another_number} is an integer? " + str(difference.is_integer()) + "!")
 
 
 
