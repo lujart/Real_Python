@@ -10,7 +10,7 @@
 # The colon (:) after the variable n indicates that everything after it is part of the formatting specification.
 # In the previous example, the formatting specification is .2f.
 # The .2 in .2f rounds the number to two decimal places, and the f tells Python to display n as a fixed-point
-# number. This means that the number is diplayed with exactly two decimal places, even if the original number
+# number. This means that the number is displayed with exactly two decimal places, even if the original number
 # has fewer decimal places. 
 # When you format a number as fixed point, it's always displayed with the precise number of decimal places
 # that are specified.
