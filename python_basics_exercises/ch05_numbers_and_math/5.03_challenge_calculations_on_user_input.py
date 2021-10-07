@@ -9,6 +9,6 @@ exponent = input("Enter an exponent: ")
 # Remember: input() returns a string, so I'll need to convert the user's input into numbers
 # to do arithmetic.
 
-result = float(base) * float(exponent)
+result = float(base) ** float(exponent)
 
 print(f"{base} to the power of {exponent} = {result}")
